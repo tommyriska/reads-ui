@@ -1,0 +1,253 @@
+export const booklist = {
+        "toread": [
+            {
+                "kind": "books#volume",
+                "id": "hLcrDwAAQBAJ",
+                "etag": "VOH3idf/ruU",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/hLcrDwAAQBAJ",
+                "volumeInfo": {
+                    "title": "Serious Cryptography",
+                    "subtitle": "A Practical Introduction to Modern Encryption",
+                    "authors": [
+                        "Jean-Philippe Aumasson"
+                    ],
+                    "publisher": "No Starch Press",
+                    "publishedDate": "2017-11-21",
+                    "description": "This practical guide to modern encryption breaks down the fundamental mathematical concepts at the heart of cryptography without shying away from meaty discussions of how they work. You’ll learn about authenticated encryption, secure randomness, hash functions, block ciphers, and public-key techniques such as RSA and elliptic curve cryptography. You’ll also learn: - Key concepts in cryptography, such as computational security, attacker models, and forward secrecy - The strengths and limitations of the TLS protocol behind HTTPS secure websites - Quantum computation and post-quantum cryptography - About various vulnerabilities by examining numerous code examples and use cases - How to choose the best algorithm or protocol and ask vendors the right questions Each chapter includes a discussion of common implementation mistakes using real-world examples and details what could go wrong and how to avoid these pitfalls. Whether you’re a seasoned practitioner or a beginner looking to dive into the field, Serious Cryptography will provide a complete survey of modern encryption and its applications.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9781593278823"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "1593278829"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": true,
+                        "image": false
+                    },
+                    "pageCount": 312,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Computers"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": true,
+                    "contentVersion": "1.2.2.0.preview.2",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=hLcrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=hLcrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.no/books?id=hLcrDwAAQBAJ&printsec=frontcover&dq=Serious+Cryptography&hl=&cd=1&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=hLcrDwAAQBAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hLcrDwAAQBAJ"
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "GEevtQEACAAJ",
+                "etag": "QXdwVJMOq38",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/GEevtQEACAAJ",
+                "volumeInfo": {
+                    "title": "Ølbrygging",
+                    "subtitle": "50 hjemmebryggingsoppskrifter fra verdens beste håndverksbryggerier",
+                    "authors": [
+                        "Euan Ferguson"
+                    ],
+                    "publishedDate": "2016",
+                    "description": "I denne boka deler noen verdens mest anerkjente håndbryggerier sine oppskrifter på øl. Med litt grunnutstyr, de rette ingrediensene og en dose entusiasme kan du dermed brygge godt øl hjemme: For eksempel en IPA med en raus porsjon humle, eller en mørk og velsmakende porter. Håndverksbryggerne deler i tillegg til oppskriftene sine beste tips om hvordan man brygger det beste ølet hjemme. Omtalen er utarbeidet av BS.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "8251695309"
+                        },
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9788251695305"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": false,
+                        "image": false
+                    },
+                    "pageCount": 191,
+                    "printType": "BOOK",
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "language": "no",
+                    "previewLink": "http://books.google.no/books?id=GEevtQEACAAJ&dq=%C3%98lbrygging&hl=&cd=1&source=gbs_api",
+                    "infoLink": "http://books.google.no/books?id=GEevtQEACAAJ&dq=%C3%98lbrygging&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/%C3%98lbrygging.html?hl=&id=GEevtQEACAAJ"
+                }
+            }
+        ],
+        "reading": [
+            {
+                "kind": "books#volume",
+                "id": "0XCcDwAAQBAJ",
+                "etag": "dSuE28m6C80",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/0XCcDwAAQBAJ",
+                "volumeInfo": {
+                    "title": "Permanent Record",
+                    "authors": [
+                        "Edward Snowden"
+                    ],
+                    "publisher": "Metropolitan Books",
+                    "publishedDate": "2019-09-17",
+                    "description": "NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, Permanent Record is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, Permanent Record is a crucial memoir of our digital age and destined to be a classic.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9781250237248"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "1250237246"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": true,
+                        "image": false
+                    },
+                    "pageCount": 352,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Biography & Autobiography"
+                    ],
+                    "averageRating": 4.5,
+                    "ratingsCount": 7,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": true,
+                    "contentVersion": "1.2.2.0.preview.2",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.no/books?id=0XCcDwAAQBAJ&printsec=frontcover&dq=Edward+Snowden&hl=&cd=1&source=gbs_api",
+                    "infoLink": "https://play.google.com/store/books/details?id=0XCcDwAAQBAJ&source=gbs_api",
+                    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0XCcDwAAQBAJ"
+                }
+            }
+        ],
+        "read": [
+            {
+                "kind": "books#volume",
+                "id": "-RVJDAAAQBAJ",
+                "etag": "FcZyTx0davQ",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/-RVJDAAAQBAJ",
+                "volumeInfo": {
+                    "title": "Elon Musk",
+                    "subtitle": "Tesla, SpaceX og jakten på en fantastisk fremtid",
+                    "authors": [
+                        "Ashlee Vance"
+                    ],
+                    "publisher": "Vega Forlag",
+                    "publishedDate": "2016-05-30",
+                    "description": "Mannen bak Tesla vil forandre verden. Deretter vil han erobre verdensrommet. Med en enestående evne til å tenke nytt og stort har Elon Musk sendt sjokkbølger inn i moderne industri og næringsliv. I denne biografien blir vi kjent med teknologigrunderen som investerer all sin energi og formue i å skape en fremtid like spektakulær som en science fiction-fantasi - og som ikke er redd for å ofre vennskap på veien. Gjennom selskaper som Tesla Motors, SpaceX, PayPal og Solar-City har Musk revolusjonert bilindustrien, energiindustrien og kommersiell romfart. Men Musk stopper ikke her. Han vil frakte mennesker i rør i 1600 kilometer i timen, bygge internett i verdensrommet - og dø på Mars. Ved hjelp av eksklusiv tilgang til Musk, hans familie og omgangskrets har Ashlee Vance skrevet et undersøkende portrett av klodens kanskje dristigste og mest visjonære forretningsmann. Han beskriver Musks tøffe oppvekst i Sør-Afrika, jakten på suksess i Silicon Valley og de enorme opp- og nedturene som har fulgt denne kontroversielle eventyrerens liv.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9788282115063"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "8282115061"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": true,
+                        "image": false
+                    },
+                    "pageCount": 384,
+                    "printType": "BOOK",
+                    "categories": [
+                        "Biography & Autobiography"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "1.1.1.0.preview.2",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=-RVJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=-RVJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "no",
+                    "previewLink": "http://books.google.no/books?id=-RVJDAAAQBAJ&dq=inauthor:Ashlee+Vance&hl=&cd=1&source=gbs_api",
+                    "infoLink": "http://books.google.no/books?id=-RVJDAAAQBAJ&dq=inauthor:Ashlee+Vance&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Elon_Musk.html?hl=&id=-RVJDAAAQBAJ"
+                }
+            },
+            {
+                "kind": "books#volume",
+                "id": "LwvsDAAAQBAJ",
+                "etag": "aZ6bvILXwg4",
+                "selfLink": "https://www.googleapis.com/books/v1/volumes/LwvsDAAAQBAJ",
+                "volumeInfo": {
+                    "title": "American Kingpin",
+                    "subtitle": "The Epic Hunt for the Criminal Mastermind Behind the Silk Road",
+                    "authors": [
+                        "Nick Bilton"
+                    ],
+                    "publisher": "Penguin",
+                    "publishedDate": "2017-05-02",
+                    "description": "NEW YORK TIMES BESTSELLER. The unbelievable true story of the man who built a billion-dollar online drug empire from his bedroom—and almost got away with it In 2011, a twenty-six-year-old libertarian programmer named Ross Ulbricht launched the ultimate free market: the Silk Road, a clandestine Web site hosted on the Dark Web where anyone could trade anything—drugs, hacking software, forged passports, counterfeit cash, poisons—free of the government’s watchful eye. It wasn’t long before the media got wind of the new Web site where anyone—not just teenagers and weed dealers but terrorists and black hat hackers—could buy and sell contraband detection-free. Spurred by a public outcry, the federal government launched an epic two-year manhunt for the site’s elusive proprietor, with no leads, no witnesses, and no clear jurisdiction. All the investigators knew was that whoever was running the site called himself the Dread Pirate Roberts. The Silk Road quickly ballooned into $1.2 billion enterprise, and Ross embraced his new role as kingpin. He enlisted a loyal crew of allies in high and low places, all as addicted to the danger and thrill of running an illegal marketplace as their customers were to the heroin they sold. Through his network he got wind of the target on his back and took drastic steps to protect himself—including ordering a hit on a former employee. As Ross made plans to disappear forever, the Feds raced against the clock to catch a man they weren’t sure even existed, searching for a needle in the haystack of the global Internet. Drawing on exclusive access to key players and two billion digital words and images Ross left behind, Vanity Fair correspondent and New York Times bestselling author Nick Bilton offers a tale filled with twists and turns, lucky breaks and unbelievable close calls. It’s a story of the boy next door’s ambition gone criminal, spurred on by the clash between the new world of libertarian-leaning, anonymous, decentralized Web advocates and the old world of government control, order, and the rule of law. Filled with unforgettable characters and capped by an astonishing climax, American Kingpin might be dismissed as too outrageous for fiction. But it’s all too real.",
+                    "industryIdentifiers": [
+                        {
+                            "type": "ISBN_13",
+                            "identifier": "9780698405738"
+                        },
+                        {
+                            "type": "ISBN_10",
+                            "identifier": "0698405730"
+                        }
+                    ],
+                    "readingModes": {
+                        "text": true,
+                        "image": false
+                    },
+                    "pageCount": 304,
+                    "printType": "BOOK",
+                    "categories": [
+                        "True Crime"
+                    ],
+                    "averageRating": 4.0,
+                    "ratingsCount": 5,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": true,
+                    "contentVersion": "1.3.3.0.preview.2",
+                    "panelizationSummary": {
+                        "containsEpubBubbles": false,
+                        "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                        "smallThumbnail": "http://books.google.com/books/content?id=LwvsDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                        "thumbnail": "http://books.google.com/books/content?id=LwvsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.no/books?id=LwvsDAAAQBAJ&printsec=frontcover&dq=american+kingpin&hl=&cd=1&source=gbs_api",
+                    "infoLink": "http://books.google.no/books?id=LwvsDAAAQBAJ&dq=american+kingpin&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/American_Kingpin.html?hl=&id=LwvsDAAAQBAJ"
+                }
+            }
+        ]
+    }
