@@ -1,4 +1,4 @@
 export type ImageLinksType = {
-    smallTumbnail?: string,
+    smallThumbnail?: string,
     thumbnail?: string
 }

@@ -1,19 +1,24 @@
-import React, { useEffect } from 'react';
-import './App.css';
+import React from 'react';
 import Navbar from '../Navbar/Navbar';
-import { Switch, Route } from 'react-router-dom';
-import Dashboard from '../Dashboard';
+import { Switch, Route, Link } from 'react-router-dom';
+import styles from './styles.module.css';
 import BooksView from '../BooksView/BooksView';
+import data from '../../books.json';
 
 const App: React.FC = () => {
   return (
     <div>
       <Navbar />
+      <div className={styles.views}>
+        <Link className={styles.viewitem} to="/to-read">To Read</Link>
+        <Link className={styles.viewitem} to="/reading">Reading</Link>
+        <Link className={styles.viewitem} to="/read">Read</Link>
+      </div>
       <Switch>
-        <Route exact path="/" component={Dashboard} />
-        <Route exact path="/to-read" component={BooksView} />
-        <Route exact path="/reading" component={BooksView} />
-        <Route exact path="/read" component={BooksView} />
+        <Route exact path="/" render={() => <BooksView books={data} /> } />
+        <Route exact path="/to-read" render={() => <BooksView books={data} filterStatus="toread" /> } />
+        <Route exact path="/reading" render={() => <BooksView books={data} filterStatus="reading" /> } />
+        <Route exact path="/read" render={() => <BooksView books={data} filterStatus="read" /> } />
       </Switch>
     </div>
   );

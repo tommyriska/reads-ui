@@ -14,5 +14,6 @@ export type BookType = {
     categories?: string[],
     maturityRating: string,
     imageLinks?: ImageLinksType,
-    language: string
+    language: string,
+    status: string
 }
