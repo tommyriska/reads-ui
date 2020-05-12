@@ -1,19 +1,10 @@
 import { ImageLinksType } from './ImageLinksType';
+import { VolumeInfoType } from './VolumeInfoType';
 
 export type BookType = {
+    kind: string,
     id: string,
-    title: string,
-    subtitle?: string,
-    authors: string[],
-    publisher?: string,
-    publishedDate: string,
-    description: string,
-    isbn10: string,
-    isbn13: string,
-    pageCount: number,
-    categories?: string[],
-    maturityRating: string,
-    imageLinks?: ImageLinksType,
-    language: string,
-    status: string
+    etag: string,
+    selfLink: string,
+    volumeInfo: VolumeInfoType
 }

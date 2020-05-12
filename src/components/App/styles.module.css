@@ -1,25 +1,28 @@
-html {
-  height: 100%;
+.app {
+  text-align: center;
 }
 
-body {
-  background-color: white;
-  font-family: "Lato", sans-serif;
-  padding: 12px;
+* {
+  box-sizing: border-box;
 }
 
-.views {
-  width: 100%;
-  height: 50px;
+.intro {
+  font-size: large;
+}
+
+.spinner {
+  height: 80px;
+  margin: auto;
+}
+
+.errorMessage {
+  margin: auto;
+  font-weight: bold;
+  color: rgb(161, 15, 15);
+}
+
+.books {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 12px;
-}
-
-.viewitem {
-  padding-left: 6px;
-  padding-right: 6px;
-  text-decoration: underline;
-  color: #000;
+  flex-wrap: wrap;
+  flex-direction: row;
 }

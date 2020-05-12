@@ -1,89 +1,812 @@
-[
-    {
-        "id": "hLcrDwAAQBAJ",
-        "title": "Serious Cryptography",
-        "subtitle": "A Practical Introduction to Modern Encryption",
-        "authors": [
-            "Jean-Philippe Aumasson"
-        ],
-        "publisher": "No Starch Press",
-        "publishedDate": "2017-11-21",
-        "description": "This practical guide to modern encryption breaks down the fundamental mathematical concepts at the heart of cryptography without shying away from meaty discussions of how they work. You’ll learn about authenticated encryption, secure randomness, hash functions, block ciphers, and public-key techniques such as RSA and elliptic curve cryptography. You’ll also learn: - Key concepts in cryptography, such as computational security, attacker models, and forward secrecy - The strengths and limitations of the TLS protocol behind HTTPS secure websites - Quantum computation and post-quantum cryptography - About various vulnerabilities by examining numerous code examples and use cases - How to choose the best algorithm or protocol and ask vendors the right questions Each chapter includes a discussion of common implementation mistakes using real-world examples and details what could go wrong and how to avoid these pitfalls. Whether you’re a seasoned practitioner or a beginner looking to dive into the field, Serious Cryptography will provide a complete survey of modern encryption and its applications.",
-        "isbn10": "9781593278823",
-        "isbn13": "1593278829",
-        "pageCount": 312,
-        "categories": [
-            "Computers"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=hLcrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=hLcrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "status": "toread"
+[{
+    "kind": "books#volume",
+    "id": "0XCcDwAAQBAJ",
+    "etag": "bPW/wvm1WHA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0XCcDwAAQBAJ",
+    "volumeInfo": {
+     "title": "Permanent Record",
+     "authors": [
+      "Edward Snowden"
+     ],
+     "publisher": "Metropolitan Books",
+     "publishedDate": "2019-09-17",
+     "description": "NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, Permanent Record is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, Permanent Record is a crucial memoir of our digital age and destined to be a classic.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781250237248"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1250237246"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": false
+     },
+     "pageCount": 352,
+     "printType": "BOOK",
+     "categories": [
+      "Biography & Autobiography"
+     ],
+     "averageRating": 4.5,
+     "ratingsCount": 9,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.2.2.0.preview.2",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=0XCcDwAAQBAJ&printsec=frontcover&dq=Permanent+Record&hl=&cd=1&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=0XCcDwAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0XCcDwAAQBAJ"
     },
-    {
-        "id": "GEevtQEACAAJ",
-        "title": "Ølbrygging",
-        "subtitle": "50 hjemmebryggingsoppskrifter fra verdens beste håndverksbryggerier",
-        "authors": [
-            "Euan Ferguson"
-        ],
-        "publishedDate": "2016",
-        "description": "I denne boka deler noen verdens mest anerkjente håndbryggerier sine oppskrifter på øl. Med litt grunnutstyr, de rette ingrediensene og en dose entusiasme kan du dermed brygge godt øl hjemme: For eksempel en IPA med en raus porsjon humle, eller en mørk og velsmakende porter. Håndverksbryggerne deler i tillegg til oppskriftene sine beste tips om hvordan man brygger det beste ølet hjemme. Omtalen er utarbeidet av BS.",
-        "isbn10": "8251695309",
-        "isbn13": "9788251695305",
-        "pageCount": 191,
-        "maturityRating": "NOT_MATURE",
-        "language": "no",
-        "status": "toread"
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 125.72,
+      "currencyCode": "NOK"
+     },
+     "retailPrice": {
+      "amount": 110.0,
+      "currencyCode": "NOK"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=0XCcDwAAQBAJ&rdid=book-0XCcDwAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.2572E8,
+        "currencyCode": "NOK"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.1E8,
+        "currencyCode": "NOK"
+       }
+      }
+     ]
     },
-    {
-        "id": "0XCcDwAAQBAJ",
-        "title": "Permanent Record",
-        "authors": [
-            "Edward Snowden"
-        ],
-        "publisher": "Metropolitan Books",
-        "publishedDate": "2019-09-17",
-        "description": "NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it. Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, Permanent Record is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, Permanent Record is a crucial memoir of our digital age and destined to be a classic.",
-        "isbn10": "9781250237248",
-        "isbn13": "1250237246",
-        "pageCount": 352,
-        "categories": [
-            "Biography & Autobiography"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=0XCcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-        },
-        "language": "en",
-        "status": "reading"
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Permanent_Record-sample-epub.acsm?id=0XCcDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=0XCcDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
     },
-    {
-        "id": "-RVJDAAAQBAJ",
-        "title": "Elon Musk",
-        "subtitle": "Tesla, SpaceX og jakten på en fantastisk fremtid",
-        "authors": [
-            "Ashlee Vance"
-        ],
-        "publisher": "Vega Forlag",
-        "publishedDate": "2016-05-30",
-        "description": "Mannen bak Tesla vil forandre verden. Deretter vil han erobre verdensrommet. Med en enestående evne til å tenke nytt og stort har Elon Musk sendt sjokkbølger inn i moderne industri og næringsliv. I denne biografien blir vi kjent med teknologigrunderen som investerer all sin energi og formue i å skape en fremtid like spektakulær som en science fiction-fantasi - og som ikke er redd for å ofre vennskap på veien. Gjennom selskaper som Tesla Motors, SpaceX, PayPal og Solar-City har Musk revolusjonert bilindustrien, energiindustrien og kommersiell romfart. Men Musk stopper ikke her. Han vil frakte mennesker i rør i 1600 kilometer i timen, bygge internett i verdensrommet - og dø på Mars. Ved hjelp av eksklusiv tilgang til Musk, hans familie og omgangskrets har Ashlee Vance skrevet et undersøkende portrett av klodens kanskje dristigste og mest visjonære forretningsmann. Han beskriver Musks tøffe oppvekst i Sør-Afrika, jakten på suksess i Silicon Valley og de enorme opp- og nedturene som har fulgt denne kontroversielle eventyrerens liv.",
-        "isbn10": "9788282115063",
-        "isbn13": "8282115061",
-        "pageCount": 384,
-        "categories": [
-            "Biography & Autobiography"
-        ],
-        "maturityRating": "NOT_MATURE",
-        "imageLinks": {
-            "smallThumbnail": "http://books.google.com/books/content?id=-RVJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-            "thumbnail": "http://books.google.com/books/content?id=-RVJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-        },
-        "language": "no",
-        "status": "read"
+    "searchInfo": {
+     "textSnippet": "NEW YORK TIMES BESTSELLER Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what ..."
     }
-]
+   },
+   {
+    "kind": "books#volume",
+    "id": "z9Y-CgAAQBAJ",
+    "etag": "Z9TRmRk4sjY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/z9Y-CgAAQBAJ",
+    "volumeInfo": {
+     "title": "Snowden-filene",
+     "authors": [
+      "Luke Harding"
+     ],
+     "publisher": "Forlaget Press",
+     "publishedDate": "2014-02-03",
+     "description": "Det hele begynte våren 2013 med en e-post til en journalist i The Guardian. Avsenderen var Edward Snowden, en 29 år gammel agent i det svært hemmelige National Security Agency (NSA). I de neste månedene skulle Snowden stå frem som den mest spektakulære varsleren i USAs historie. Han lekket svært sensitiv informasjon som viste hvordan amerikansk og britisk etterretning spionerte på helt vanlige borgere. Snowden-filene er en virkelighetens thriller i Alle presidentens menn-ånd og forteller historien om Snowden, hans motiv og hans tanker, og hans dramatiske flukt fra USAs etterretningsagenter. Flukten gikk med fly over store deler av verden, og endte – foreløpig – i Russland.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9788275477413"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "8275477417"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "printType": "BOOK",
+     "categories": [
+      "Biography & Autobiography"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=z9Y-CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=z9Y-CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "no",
+     "previewLink": "http://books.google.no/books?id=z9Y-CgAAQBAJ&printsec=frontcover&dq=Permanent+Record&hl=&cd=2&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=z9Y-CgAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z9Y-CgAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 199.0,
+      "currencyCode": "NOK"
+     },
+     "retailPrice": {
+      "amount": 174.12,
+      "currencyCode": "NOK"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=z9Y-CgAAQBAJ&rdid=book-z9Y-CgAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.99E8,
+        "currencyCode": "NOK"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.7412E8,
+        "currencyCode": "NOK"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Snowden_filene-sample-epub.acsm?id=z9Y-CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Snowden_filene-sample-pdf.acsm?id=z9Y-CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=z9Y-CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Snowden-filene er en virkelighetens thriller i Alle presidentens menn-ånd og forteller historien om Snowden, hans motiv og hans tanker, og hans dramatiske flukt fra USAs etterretningsagenter."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "XVOIDwAAQBAJ",
+    "etag": "Rg9JN0SZgf0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/XVOIDwAAQBAJ",
+    "volumeInfo": {
+     "title": "Permanent Record",
+     "authors": [
+      "Mary H. K. Choi"
+     ],
+     "publisher": "Simon and Schuster",
+     "publishedDate": "2019-09-03",
+     "description": "A New York Times bestseller An NPR Favorite Book of 2019 A BuzzFeed Best YA Book of 2019 From the New York Times bestselling author of Emergency Contact, which Rainbow Rowell called “smart and funny,” comes an unforgettable new romance about how social media influences relationships every day. On paper, college dropout Pablo Rind doesn’t have a whole lot going for him. His graveyard shift at a twenty-four-hour deli in Brooklyn is a struggle. Plus, he’s up to his eyeballs in credit card debt. Never mind the state of his student loans. Pop juggernaut Leanna Smart has enough social media followers to populate whole continents. The brand is unstoppable. She graduated from child stardom to become an international icon and her adult life is a queasy blur of private planes, step-and-repeats, aspirational hotel rooms, and strangers screaming for her just to notice them. When Leanna and Pablo meet at 5:00 a.m. at the bodega in the dead of winter it’s absurd to think they’d be A Thing. But as they discover who they are, who they want to be, and how to defy the deafening expectations of everyone else, Lee and Pab turn to each other. Which, of course, is when things get properly complicated.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781534445994"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1534445994"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": false
+     },
+     "pageCount": 432,
+     "printType": "BOOK",
+     "categories": [
+      "Young Adult Fiction"
+     ],
+     "averageRating": 4.0,
+     "ratingsCount": 2,
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.10.8.0.preview.2",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=XVOIDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=XVOIDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=XVOIDwAAQBAJ&printsec=frontcover&dq=Permanent+Record&hl=&cd=3&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=XVOIDwAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XVOIDwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 142.28,
+      "currencyCode": "NOK"
+     },
+     "retailPrice": {
+      "amount": 142.28,
+      "currencyCode": "NOK"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=XVOIDwAAQBAJ&rdid=book-XVOIDwAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 1.4228E8,
+        "currencyCode": "NOK"
+       },
+       "retailPrice": {
+        "amountInMicros": 1.4228E8,
+        "currencyCode": "NOK"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Permanent_Record-sample-epub.acsm?id=XVOIDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=XVOIDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "A New York Times bestseller An NPR Favorite Book of 2019 A BuzzFeed Best YA Book of 2019 From the New York Times bestselling author of Emergency Contact, which Rainbow Rowell called “smart and funny,” comes an unforgettable new romance ..."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "7EL_CwAAQBAJ",
+    "etag": "XXvG5lH+HUg",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7EL_CwAAQBAJ",
+    "volumeInfo": {
+     "title": "Sapiens",
+     "authors": [
+      "Yuval Noah Harari"
+     ],
+     "publisher": "Bazarforlag AS",
+     "publishedDate": "2016-02-29",
+     "description": "For 70 000 år siden fantes det seks ulike menneskearter på jorden. I dag finnes den kun én. Oss. Homo sapiens. Hvordan kunne vi bli dominerende og danke ut de andre menneskeartene som eksisterte samtidig med oss? Sapiens er en reise i menneskehetens historie. Yuval Noah Harari har en doktorgrad i historie fra Oxford University og underviser ved Det hebraiske universitetet i Jerusalem. Sapiens er utgitt i mer enn tretti land, og har inntatt bestselgerlistene i blant annet Storbritannia, Frankrike og Spania.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9788280877369"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "8280877363"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 448,
+     "printType": "BOOK",
+     "categories": [
+      "History"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.1.1.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=7EL_CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=7EL_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "no",
+     "previewLink": "http://books.google.no/books?id=7EL_CwAAQBAJ&printsec=frontcover&dq=Permanent+Record&hl=&cd=4&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=7EL_CwAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7EL_CwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 299.0,
+      "currencyCode": "NOK"
+     },
+     "retailPrice": {
+      "amount": 261.62,
+      "currencyCode": "NOK"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=7EL_CwAAQBAJ&rdid=book-7EL_CwAAQBAJ&rdot=1&source=gbs_api",
+     "offers": [
+      {
+       "finskyOfferType": 1,
+       "listPrice": {
+        "amountInMicros": 2.99E8,
+        "currencyCode": "NOK"
+       },
+       "retailPrice": {
+        "amountInMicros": 2.6162E8,
+        "currencyCode": "NOK"
+       }
+      }
+     ]
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Sapiens-sample-epub.acsm?id=7EL_CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Sapiens-sample-pdf.acsm?id=7EL_CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=7EL_CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "I dag finnes den kun én. Oss. Homo sapiens. Hvordan kunne vi bli dominerende og danke ut de andre menneskeartene som eksisterte samtidig med oss? Sapiens er en reise i menneskehetens historie."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "fFHGDwAAQBAJ",
+    "etag": "DkW3bDxmHlE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fFHGDwAAQBAJ",
+    "volumeInfo": {
+     "title": "Summary of \"Permanent Record\" by Edward Snowden - Free book by QuickRead.com",
+     "authors": [
+      "QuickRead",
+      "Lea Schullery"
+     ],
+     "publisher": "QuickRead.com",
+     "description": "Want more free books like this? Download our app for free at https://www.QuickRead.com/App and get access to hundreds of free book and audiobook summaries. Discover how Edward Snowden exposed the sophisticated top-secret program that pried into the private lives of every American citizen. Learn the story of the man who risked everything to expose the U.S. government’s system of mass surveillance. In 2013, twenty-nine-year-old Edward Snowden shocked the world when he revealed the United States system of collecting every single phone call, email, and text message from its citizens. With the government tracking our every move and prying into our private lives, Snowden felt moved to expose the secrets of the system he helped build. Read about the man who became a spy turned whistleblower through his candid memoir about his journey working up the ranks of NSA. Learn how Snowden was able to steal and smuggle documents from the most secure organization in the world, how he began a career in hacking as a young teen, and how exposing the government’s top-secret documents changed his life.",
+     "readingModes": {
+      "text": false,
+      "image": true
+     },
+     "printType": "BOOK",
+     "categories": [
+      "Study Aids"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "0.0.1.0.preview.1",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=fFHGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=fFHGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=fFHGDwAAQBAJ&printsec=frontcover&dq=Permanent+Record&hl=&cd=5&source=gbs_api",
+     "infoLink": "https://play.google.com/store/books/details?id=fFHGDwAAQBAJ&source=gbs_api",
+     "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fFHGDwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "FOR_SALE",
+     "isEbook": true,
+     "listPrice": {
+      "amount": 0.0,
+      "currencyCode": "NOK"
+     },
+     "retailPrice": {
+      "amount": 0.0,
+      "currencyCode": "NOK"
+     },
+     "buyLink": "https://play.google.com/store/books/details?id=fFHGDwAAQBAJ&rdid=book-fFHGDwAAQBAJ&rdot=1&source=gbs_api"
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "ALL_PAGES",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/Summary_of_Permanent_Record_by_Edward_Sn-sample-pdf.acsm?id=fFHGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=fFHGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Learn the story of the man who risked everything to expose the U.S. government’s system of mass surveillance."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "HJGkrd7dAD8C",
+    "etag": "/0IEmtFCwdk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/HJGkrd7dAD8C",
+    "volumeInfo": {
+     "title": "The Permanent Record",
+     "authors": [
+      "Gretchen Olnhausen"
+     ],
+     "publisher": "Tate Publishing",
+     "publishedDate": "2010-03",
+     "description": "What will be in the permanent record of your life? What will you be held accountable for when the end arrives? the answer is: everything. Lily Taylor is born a precocious child with an affinity for nature. Her guardian angel watches over her with pride and affection as she grows to appreciate the wonders of God's world, vowing only to intercede in her actions and thoughts as the Master permits. As she encounters more and more adversity however, it becomes clear that Satan is beginning to work in her life and she must face the choice of which path to take. In the face of an abusive husband set on turning the world against her, Lily begins to rely on the counsel from her spiritual counterpart. By the time she encounters a family member succumbing to demonic forces, And The marriage of her daughter, which is eerily similar to her own, Lily has girded herself with every weapon her angel can provide her with and fights valiantly against the negative influences in her life. For better or worse, her choices, her actions, and her words are being recorded by the angel watching over her, and chronicled in the life she leads. Join Gretchen Olnhausen in discovering what the Permanent Record will contain.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9781615665808"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "1615665803"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": true
+     },
+     "pageCount": 240,
+     "printType": "BOOK",
+     "categories": [
+      "Fiction"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "0.0.1.0.preview.3",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=HJGkrd7dAD8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=HJGkrd7dAD8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=HJGkrd7dAD8C&pg=PA240&dq=Permanent+Record&hl=&cd=6&source=gbs_api",
+     "infoLink": "http://books.google.no/books?id=HJGkrd7dAD8C&dq=Permanent+Record&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/The_Permanent_Record.html?hl=&id=HJGkrd7dAD8C"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "PARTIAL",
+     "embeddable": true,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.no/books/download/The_Permanent_Record-sample-epub.acsm?id=HJGkrd7dAD8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=HJGkrd7dAD8C&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "SAMPLE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "WHAT WILL BE IN THE PERMANENT REl :ORH HELD ACCOUNTABLE FOR \u003cbr\u003e\nWHEN THE END ARRIVES? THE ANSWER IS: Lily ... Join Cretchen Olnhau- sen \u003cbr\u003e\nin discovering what The \u003cb\u003ePermanent Record\u003c/b\u003e will contain. Gretthtu Olnhausen is a\u003cbr\u003e\n&nbsp;..."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "5ADONAEACAAJ",
+    "etag": "lNbrqy+pPEE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/5ADONAEACAAJ",
+    "volumeInfo": {
+     "title": "Permanent Record",
+     "authors": [
+      "Leslie Stella"
+     ],
+     "publisher": "Marshall Cavendish Corporation/Ccb",
+     "publishedDate": "2013",
+     "description": "Being yourself can be such a bad idea sometimes. For sixteen-year-old Badi Hessamizadeh, life is a series of public humiliations. After withdrawing from public school under mysterious circumstances, Badi enters Magnificat Academy as a junior. To make things “easier,” his dad has even given him a new name: Bud Hess. Grappling with his Iranian-American identity, clinical depression, bullying, and a barely bottled rage, Bud is an outcast who copes by resorting to small revenges and covert acts of defiance, but the pressures of his home life, plummeting grades, and the unrequited affection of his new friend, Nikki, prime him for a more dangerous revolution. Strange letters to the editor begin to appear in Magnificat's newspaper, hinting that some tragedy will befall the school. Suspicion falls on Bud, and he and Nikki struggle to uncover the real culprit and clear Bud's name. PERMANENT RECORD explodes with dark humor, emotional depth, and a unique, powerful look at modern teen life.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "1477816399"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9781477816394"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 282,
+     "printType": "BOOK",
+     "categories": [
+      "Juvenile Fiction"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=5ADONAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=5ADONAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=5ADONAEACAAJ&dq=Permanent+Record&hl=&cd=7&source=gbs_api",
+     "infoLink": "http://books.google.no/books?id=5ADONAEACAAJ&dq=Permanent+Record&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Permanent_Record.html?hl=&id=5ADONAEACAAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=5ADONAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Suspicion falls on Bud, and he and Nikki struggle to uncover the real culprit and clear Bud&#39;s name. PERMANENT RECORD explodes with dark humor, emotional depth, and a unique, powerful look at modern teen life."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "tIprzQEACAAJ",
+    "etag": "3+1GXOcInig",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/tIprzQEACAAJ",
+    "volumeInfo": {
+     "title": "Permanent Record (Young Readers Edition)",
+     "subtitle": "How One Man Exposed the Truth about Government Spying and Digital Security",
+     "authors": [
+      "Edward Snowden"
+     ],
+     "publisher": "Henry Holt Books For Young Readers",
+     "publishedDate": "2020-09-09",
+     "description": "In 2013, Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, the man who risked everything to expose the US government's system of mass surveillance reveals to a new generation how he helped build that system, what motivated him to try to bring it down, and how kids can protect their privacy in this digital age of indiscriminate data collection.",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "1250767911"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9781250767912"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "printType": "BOOK",
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=tIprzQEACAAJ&dq=Permanent+Record&hl=&cd=8&source=gbs_api",
+     "infoLink": "http://books.google.no/books?id=tIprzQEACAAJ&dq=Permanent+Record&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Permanent_Record_Young_Readers_Edition.html?hl=&id=tIprzQEACAAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=tIprzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "In 2013, Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "BKn3sgEACAAJ",
+    "etag": "nK+KDOhHBPk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BKn3sgEACAAJ",
+    "volumeInfo": {
+     "title": "Permanent Record & Other Poems",
+     "authors": [
+      "Mark Vinz"
+     ],
+     "publishedDate": "2015",
+     "description": "Poetry. From childhood to elegies and curmudgeonly rants, the poems in PERMANENT RECORD seek to explore what has remained memorable in Mark Vinz's life. As Roland Dille, former English professor and president of Moorhead State University, has aptly noted, \"A Vinz poem almost always begins as a clearly observed piece of the real, even dull world. But it is soon transformed and the vivid imagery has given us what Thom Tammaro has called 'fragments and glimpses of the truth.' The commonplace has grown complex.\"",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_10",
+       "identifier": "1937693813"
+      },
+      {
+       "type": "ISBN_13",
+       "identifier": "9781937693817"
+      }
+     ],
+     "readingModes": {
+      "text": false,
+      "image": false
+     },
+     "pageCount": 110,
+     "printType": "BOOK",
+     "categories": [
+      "American poetry"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": false,
+     "contentVersion": "preview-1.0.0",
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=BKn3sgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=BKn3sgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "en",
+     "previewLink": "http://books.google.no/books?id=BKn3sgEACAAJ&dq=Permanent+Record&hl=&cd=9&source=gbs_api",
+     "infoLink": "http://books.google.no/books?id=BKn3sgEACAAJ&dq=Permanent+Record&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Permanent_Record_Other_Poems.html?hl=&id=BKn3sgEACAAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": false
+     },
+     "pdf": {
+      "isAvailable": false
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=BKn3sgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Poetry. From childhood to elegies and curmudgeonly rants, the poems in PERMANENT RECORD seek to explore what has remained memorable in Mark Vinz&#39;s life."
+    }
+   },
+   {
+    "kind": "books#volume",
+    "id": "pLumDwAAQBAJ",
+    "etag": "lbhu8T2fjak",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/pLumDwAAQBAJ",
+    "volumeInfo": {
+     "title": "Permanent Record",
+     "subtitle": "Meine Geschichte",
+     "authors": [
+      "Edward Snowden"
+     ],
+     "publisher": "S. Fischer Verlag",
+     "publishedDate": "2019-09-17",
+     "description": "Edward Snowden riskierte alles, um das System der Massenüberwachung durch die US-Regierung aufzudecken. Jetzt erzählt er seine Geschichte. »Mein Name ist Edward Snowden. Sie halten dieses Buch in Händen, weil ich etwas getan habe, das für einen Mann in meiner Position sehr gefährlich ist: Ich habe beschlossen, die Wahrheit zu sagen.« Mit 29 Jahren schockiert Edward Snowden die Welt: Als Datenspezialist und Geheimnisträger für NSA und CIA deckt er auf, dass die US-Regierung heimlich das Ziel verfolgt, jeden Anruf, jede SMS und jede E-Mail zu überwachen. Das Ergebnis wäre ein nie dagewesenes System der Massenüberwachung, mit dem das Privatleben jeder einzelnen Person auf der Welt durchleuchtet werden kann. Edward Snowden trifft eine folgenschwere Entscheidung: Er macht die geheimen Pläne öffentlich. Damit gibt er sein ganzes bisheriges Leben auf. Er weiß, dass er seine Familie, sein Heimatland und die Frau, die er liebt, vielleicht nie wiedersehen wird. Ein junger Mann, der im Netz aufgewachsen ist. Der zum Spion wird, zum Whistleblower und schließlich zum Gewissen des Internets. Jetzt erzählt Edward Snowden seine Geschichte selbst. Dieses Buch bringt den wichtigsten Konflikt unserer Zeit auf den Punkt: Was akzeptieren wir – und wo müssen wir anfangen Widerstand zu leisten?",
+     "industryIdentifiers": [
+      {
+       "type": "ISBN_13",
+       "identifier": "9783104911670"
+      },
+      {
+       "type": "ISBN_10",
+       "identifier": "3104911673"
+      }
+     ],
+     "readingModes": {
+      "text": true,
+      "image": false
+     },
+     "pageCount": 432,
+     "printType": "BOOK",
+     "categories": [
+      "Computers"
+     ],
+     "maturityRating": "NOT_MATURE",
+     "allowAnonLogging": true,
+     "contentVersion": "1.6.6.0.preview.2",
+     "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+     },
+     "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=pLumDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=pLumDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     },
+     "language": "de",
+     "previewLink": "http://books.google.no/books?id=pLumDwAAQBAJ&dq=Permanent+Record&hl=&cd=10&source=gbs_api",
+     "infoLink": "http://books.google.no/books?id=pLumDwAAQBAJ&dq=Permanent+Record&hl=&source=gbs_api",
+     "canonicalVolumeLink": "https://books.google.com/books/about/Permanent_Record.html?hl=&id=pLumDwAAQBAJ"
+    },
+    "saleInfo": {
+     "country": "NO",
+     "saleability": "NOT_FOR_SALE",
+     "isEbook": false
+    },
+    "accessInfo": {
+     "country": "NO",
+     "viewability": "NO_PAGES",
+     "embeddable": false,
+     "publicDomain": false,
+     "textToSpeechPermission": "ALLOWED",
+     "epub": {
+      "isAvailable": true
+     },
+     "pdf": {
+      "isAvailable": true
+     },
+     "webReaderLink": "http://play.google.com/books/reader?id=pLumDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+     "accessViewStatus": "NONE",
+     "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+     "textSnippet": "Edward Snowden riskierte alles, um das System der Massenüberwachung durch die US-Regierung aufzudecken. Jetzt erzählt er seine Geschichte. »Mein Name ist Edward Snowden."
+    }
+   }]
